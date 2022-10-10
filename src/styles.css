@@ -120,4 +120,8 @@
     .title {
         font-size: 40px;
     }
+
+    .main {
+        width: 75%;
+    }
 }
